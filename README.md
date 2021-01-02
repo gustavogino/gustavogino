@@ -4,7 +4,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gustavogino)  
 
-<p align="justify>Acredito que o futuro seja de um mundo tecnológico, onde depende de nós moldarmos e projetarmos da melhor forma possível a utilização desta tecnologia, com o objetivo de faze-la corroborar com a qualidade de vida dos seres humanos sem destruir ou prejudicar os demais seres vivos e o planeta.</p>
+<p style="text-align: justify;">Acredito que o futuro seja de um mundo tecnológico, onde depende de nós moldarmos e projetarmos da melhor forma possível a utilização desta tecnologia, com o objetivo de faze-la corroborar com a qualidade de vida dos seres humanos sem destruir ou prejudicar os demais seres vivos e o planeta.</p>
 
 - 🔭 Atualmente ainda estou trabalhando nesta página.
 
