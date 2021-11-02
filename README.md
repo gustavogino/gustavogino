@@ -1,19 +1,17 @@
 ### Olá 👋, meu nome é Gustavo!
 
-Seja bem-vindo ao meu perfil, eu adoro desenvolver coisas novas e inovadoras e quero ajudar as pessoas a fazerem o mesmo.
+Acredito que o futuro seja de um mundo tecnológico, onde depende de nós moldarmos e projetarmos da melhor forma possível a utilização desta tecnologia, com o objetivo de faze-la corroborar com a qualidade de vida dos seres humanos sem destruir ou prejudicar os demais seres vivos e o planeta.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```cpp
-using namespace std;
-
 struct PROFILE {
-    string name = "Gustavo Gino Scotton";   
-    string aboutme = "Acredito que o futuro seja de um mundo tecnológico, onde depende de nós moldarmos e projetarmos da melhor forma possível a utilização desta tecnologia, com o objetivo de faze-la corroborar com a qualidade de vida dos seres humanos sem destruir ou prejudicar os demais seres vivos e o planeta.";
-    vector<string> interested {"Convolutional Neural Network", "Hacking", "Exploits", "Security", "Cryptography"};
-    vector<string> languages {"Python", "C#", "C", "C++", "JavaScript", "PHP"};
+    std::string name = "Gustavo Gino Scotton";   
+    std::string aboutme = "Eu adoro desenvolver coisas novas e inovadoras e quero ajudar as pessoas a fazerem o mesmo.";
+    std::vector<std::string> interested {"Convolutional Neural Network", "Hacking", "Exploits", "Security", "Cryptography"};
+    std::vector<std::string> languages {"Python", "C#", "C", "C++", "JavaScript", "PHP"};
 } myprofile;
 ```
 
@@ -33,9 +31,8 @@ struct PROFILE {
 
 ## **GitHub Estatísticas**
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogino&theme=dracula&hide_langs_below=1" />
-
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavogino&show_icons=true&theme=dracula&line_height=27" alt="GustavoGino github stats"/>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gustavogino&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ 
 
 [website]: https://gustavogino.github.io/
 [twitter]: https://twitter.com/gustavogino
