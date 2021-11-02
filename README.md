@@ -30,7 +30,7 @@ struct PROFILE {
 
 
 ## **GitHub Estatísticas**
-[![trophy](https://github-profile-trophy.vercel.app/?username=gustavogino&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gustavogino&theme=algolia&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gustavogino&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
