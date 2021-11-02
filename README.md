@@ -30,15 +30,16 @@ struct PROFILE {
 
 
 ## **GitHub Estatísticas**
+[![trophy](https://github-profile-trophy.vercel.app/?username=gustavogino&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gustavogino&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gustavogino&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
 
 [website]: https://gustavogino.github.io/
 [twitter]: https://twitter.com/gustavogino
 [youtube]: https://www.youtube.com/channel/UCWLlQq6hJSrbnG7DSdSuYZg
 [instagram]: https://www.instagram.com/gustavogino/
-[linkedin]: https://www.linkedin.com/in/gustavogino/
+[linkedin]: https://www.linkedin.com/in/gustavoscotton/
 <br>
 
 #### Rede Sociais!
