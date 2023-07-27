@@ -1,6 +1,4 @@
 <img align="right" width="250px" style="margin-top:-20px" src="https://raw.githubusercontent.com/gustavogino/gustavogino/main/octocat.png">
-</br>
-</br>
 
 <div dsplay="inline-block">
 <h1 align="left">Olá 👋, meu nome é Gustavo!</h1>
