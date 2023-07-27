@@ -2,7 +2,7 @@
 
 <div dsplay="inline-block">
 <h1 align="left">Olá 👋, meu nome é Gustavo!</h1>
-<p align="jusitfy">Acredito que o futuro seja de um mundo tecnológico, onde depende de nós moldarmos e projetarmos da melhor forma possível a utilização desta tecnologia, com o objetivo de faze-la corroborar com a qualidade de vida dos seres humanos sem destruir ou prejudicar os demais seres vivos e o planeta.</p>
+<p align="justify">Acredito que o futuro seja de um mundo tecnológico, onde depende de nós moldarmos e projetarmos da melhor forma possível a utilização desta tecnologia, com o objetivo de faze-la corroborar com a qualidade de vida dos seres humanos sem destruir ou prejudicar os demais seres vivos e o planeta.</p>
 
 </br>
 </br>
@@ -12,9 +12,6 @@
 </a>
 <a href="https://www.youtube.com/channel/UCWLlQq6hJSrbnG7DSdSuYZg" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-</a>
-<a href="https://www.instagram.com/gustavogino/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
 <a href = "mailto:gustavo.gino@outlook.com">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
